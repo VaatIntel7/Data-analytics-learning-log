@@ -1,28 +1,39 @@
 # Bike-sales-analysis-dashboard-excel
 Interactive Bike Sales Dashboard Built In Microsoft Excel.Features Dynamic PivotTables,PivotCharts,Slicers and Timeline for analyzing profit by customer age group, gender, state and bike sub-category(Mountain Bikes & Road Bikes).My first Excel data analysis project. 
 
-##The Project Overview 
+**The Project Overview**
 
 This is my **first Excel project** — an interactive **Bike Sales Dashboard** designed to analyze and visualize sales performance. The dashboard delivers clear business insights into profit trends across different customer segments, product categories, and time periods.
 
 Built from raw sales data, this project showcases my ability to transform complex data into an intuitive, interactive reporting tool using **Microsoft Excel**.
 
-##Key Features
+**Key Features**
 
-- **Clean, Professional Dashboard Layout** with title and summary metrics
-- **Fully Interactive Controls**:
+- *Clean, Professional Dashboard Layout* with title and summary metrics
+- *Fully Interactive Controls*:
   - Slicers for Customer Age Group, Customer Gender, and State
   - Timeline filter for Date selection
-- **Multiple PivotTables & PivotCharts**:
+- *Multiple PivotTables & PivotCharts*:
   - Profit breakdown by Bike Sub-Category (Mountain Bikes vs Road Bikes)
   - Profit comparison by Customer Gender (F vs M)
   - Analysis by Age Group and State
-- **Visualizations Included**:
+- *Visualizations Included*:
   - Clustered Column Chart showing profit by bike type and gender
   - Line Chart displaying profit trends across sub-categories
   - Summary tables with Grand Totals and clear formatting
 
-##Key Insights from the Dashboard
+    
+**Bike Sales Analysis Insights**
+    ![Bike Sales Analysis Insights](images/BikeSalesFilters.png)
+
+
+
+
+    
+  ![Bike Sales Analysis Insights](images/BikeSalesDashboard.png)
+
+
+**Key Insights from the Dashboard**
 
 - Total Profit: **$224,705**
 - Female customers contributed **$131,281** in profit from Mountain Bikes
@@ -30,7 +41,7 @@ Built from raw sales data, this project showcases my ability to transform comple
 - Road Bikes generated significantly higher profit among male customers
 - Clear performance differences visible across age groups and states
 
-##Technical Skills Demonstrated
+**Technical Skills Demonstrated**
 
 - Advanced PivotTable creation and customization
 - PivotChart design and formatting
@@ -39,7 +50,7 @@ Built from raw sales data, this project showcases my ability to transform comple
 - Data summarization, formatting, and conditional styling
 - Building actionable business intelligence reports
 
-##What I Learned
+**What I Learned**
 
 As my **first major Excel project**, this dashboard helped me develop strong skills in:
 - Converting raw transactional data into meaningful insights
@@ -47,11 +58,11 @@ As my **first major Excel project**, this dashboard helped me develop strong ski
 - Understanding business metrics like profit analysis by customer demographics
 - Delivering user-friendly data visualization solutions
 
-##Tools
+**Tools**
 
 - **Microsoft Excel** – PivotTables, PivotCharts, Slicers, Timeline, Conditional Formatting
 
 **Project Type:** Personal Project | Data Analysis | Dashboard
 
 
-**I chose this data set because I love bikes.
+I chose this data set because I love bikes.
