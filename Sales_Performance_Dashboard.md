@@ -5,7 +5,7 @@ A clean, interactive **Sales Performance Dashboard** built in Microsoft Excel to
 ![Sales Performance Dashboard](images/dashboard.png)
 ![Sales_Performance_Dataset](images/Sales_Performance_Dataset.png)
 ![Sales_Performance_PivotTable(1)](images/Sales_Performance_Pivot_Table(1).png)
-![Sales_Performance_PivotTable(2)](image/Sales_Performance_Table_2.png)
+
 
 
 
