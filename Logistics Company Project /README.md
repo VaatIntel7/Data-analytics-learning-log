@@ -30,6 +30,11 @@ Not just *what happened* — but **what it cost.**
 
 ---
 
+# Dashboard  
+Logistics_Project_PowerBi(Dashboard View).jpg
+
+
+
 # Why I built this
 
 This started as my **Data Analytics Capstone**, but I didn’t want it to feel like a school project.
