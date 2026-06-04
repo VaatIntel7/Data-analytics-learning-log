@@ -51,7 +51,7 @@ The database contains multiple tables used to simulate a logistics and transport
 
 ---
 
-# Snapshot : Image 1
+# Snapshot : Image 1 :images/Woohoo,My First SQL Practice Work.png
 
 # Snapshot :  Image 2
 
