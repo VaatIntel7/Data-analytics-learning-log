@@ -53,7 +53,7 @@ The database contains multiple tables used to simulate a logistics and transport
 
 # Snapshot : Image 1 :images/Woohoo,My First SQL Practice Work.png
 
-# Snapshot :  Image 2
+# Snapshot : Image 2 :images/Woohoo,My First SQL Practice Work(JOIN).png
 
 
 # Step 1: View Driver Records
