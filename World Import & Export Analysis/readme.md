@@ -1,4 +1,5 @@
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-0047AB?style=for-the-badge)
 
 #  World Import & Export Analysis with MySQL
 
