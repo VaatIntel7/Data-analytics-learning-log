@@ -1,4 +1,7 @@
 # Logistics Database Exploration with MySQL Workbench
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-0047AB?style=for-the-badge)
+
 # Overview
 
 Hey there! Welcome to my database exploration project. This repository is a hands-on deep dive into working with complex relational database schemas. Using a simulated enterprise logistics network, I practiced navigating multi-table architectures, writing clean joins, and solving the kind of real-world debugging issues that happen when your data gets messy.
