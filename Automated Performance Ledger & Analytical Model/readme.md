@@ -1,5 +1,7 @@
 # Automated Performance Ledger & Analytical Model In  Microsoft Excel 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-0047AB?style=for-the-badge)
+
 
 ## Project Overview
 This project represents a practical deep dive into spreadsheet architecture, logical data modeling, and performance analytics. Using a multi-variable assessment dataset, I structured a clean, automated tracking framework that converts raw, unorganized inputs into standardized, actionable metrics. 
