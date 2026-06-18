@@ -1,4 +1,7 @@
 # Dynamic Data Triage: Mastering Advanced Conditional Formatting in Excel
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-0047AB?style=for-the-badge)
+
 
 Hey everyone, **VaatIntel** here. 
 
