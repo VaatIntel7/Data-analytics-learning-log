@@ -57,3 +57,9 @@ How does this actually help a business, a government parastatal, or an organizat
 * **Design for the User:** Building the tool is only half the job. The other half is making it intuitive enough that someone else can use it without breaking it. Creating dedicated input cells bridges that gap perfectly.
 
 Feel free to explore the repository. If you're working with data and want to discuss analytics, logic mechanics, or how to implement these dynamic rules in your own workflows, let's connect!
+
+
+![](images/Conditional_Formatting_logical_function_cell_referencing_and_visualization_step_1.png)
+
+
+
