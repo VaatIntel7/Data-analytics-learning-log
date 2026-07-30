@@ -59,7 +59,7 @@ How does this actually help a business, a government parastatal, or an organizat
 Feel free to explore the repository. If you're working with data and want to discuss analytics, logic mechanics, or how to implement these dynamic rules in your own workflows, let's connect!
 
 
-![](images/Conditional_Formatting_logical_function_cell_referencing_and_visualization_step_1.png)
+![](images/Conditional_Formatting_greater_than_cell_reference.png)
 
 
 
