@@ -65,7 +65,7 @@ The dashboard is divided into three perspectives, allowing the same dataset to b
 
 ### 01. Travel Performance Overview
 
-![](images/
+![](images/Tourism_Travel_Performance_Analytics_Dashboard_Tourism_Travel_Analysis_VaatIntel_page_1.jpg)
 
 The first view establishes the overall picture:
 
