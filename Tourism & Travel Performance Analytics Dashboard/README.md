@@ -65,7 +65,7 @@ The dashboard is divided into three perspectives, allowing the same dataset to b
 
 ### 01. Travel Performance Overview
 
-image
+![](images/
 
 The first view establishes the overall picture:
 
