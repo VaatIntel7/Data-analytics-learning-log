@@ -1,5 +1,5 @@
-
-
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-0047AB?style=for-the-badge)
 
 
 # Tourism & Travel Performance Analytics Dashboard
@@ -80,6 +80,8 @@ Switzerland appeared as the highest-revenue destination, generating approximatel
 
 ### 02. Revenue & Traveler Behaviour
 
+image
+
 The second view moves beyond overall performance to examine relationships between:
 
 - Booking channels and revenue
@@ -91,6 +93,8 @@ The second view moves beyond overall performance to examine relationships betwee
 This section was particularly useful for seeing how a single KPI can look different once it is segmented.
 
 ### 03. Traveler Experience
+
+image
 
 The final view focuses on satisfaction:
 
