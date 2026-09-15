@@ -63,9 +63,7 @@ The difference is interesting, but I treated it as an observation rather than pr
 
 The dashboard is divided into three perspectives, allowing the same dataset to be viewed from different analytical angles.
 
-### 01. Travel Performance Overview
-
-![](images/Tourism_Travel_Performance_Analytics_Dashboard_Tourism_Travel_Analysis_VaatIntel_page_1.jpg)
+### 01. Travel Performance Overview 
 
 The first view establishes the overall picture:
 
@@ -80,8 +78,6 @@ Switzerland appeared as the highest-revenue destination, generating approximatel
 
 ### 02. Revenue & Traveler Behaviour
 
-image
-
 The second view moves beyond overall performance to examine relationships between:
 
 - Booking channels and revenue
@@ -93,8 +89,6 @@ The second view moves beyond overall performance to examine relationships betwee
 This section was particularly useful for seeing how a single KPI can look different once it is segmented.
 
 ### 03. Traveler Experience
-
-image
 
 The final view focuses on satisfaction:
 
